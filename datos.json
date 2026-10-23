@@ -2,8 +2,8 @@
   "actualizado": "2026-10-23",
   "hoy": {
     "titulo": "Para hoy · viernes 23 de octubre",
-    "recomendacion": "36 · En plena recogida (app real) a las 22:30",
-    "motivo": "Es tu aceituna real en plena recogida, con la app de verdad: lo que mejor te ha funcionado (31a y 31b).\nTu mejor vídeo salió a las 22:31 y tu público está activo de noche.\nSolo uno al día, o al menos dos horas entre vídeos: el 16 se hundió por salir 80 minutos después del 15."
+    "recomendacion": "12 · Aceituna y horas para tratar a las 21:00 y 36 · En plena recogida (app real) a las 23:00",
+    "motivo": "Hoy ya salió el 23 a las 08:00. Deja al menos dos horas entre vídeos: el 16 se hundió por salir 80 minutos después del 15.\nSábado: 17 (08:00), 25 (14:00) y 22 (22:30). Domingo: 26-B (08:00), 28-B (14:00) y 35 (22:30), dos días después del 36 porque los dos son de escudete."
   },
   "videos": [
     {
@@ -85,9 +85,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/06_aceitunas_por_foto.mp4",
       "duracion": 25,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-22",
+      "hora": "21:30",
       "id": "v06"
     },
     {
@@ -169,9 +169,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/12_aceituna_y_horas_para_tratar.mp4",
       "duracion": 17,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-23",
+      "hora": "21:00",
       "id": "v12"
     },
     {
@@ -183,9 +183,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/13_octubre_en_el_olivar.mp4",
       "duracion": 21,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-22",
+      "hora": "08:00",
       "id": "v13"
     },
     {
@@ -239,9 +239,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/17_cuaderno_se_rellena_solo.mp4",
       "duracion": 20,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-24",
+      "hora": "08:00",
       "id": "v17"
     },
     {
@@ -295,9 +295,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/21_el_papel_caduca.mp4",
       "duracion": 11,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-20",
+      "hora": "08:00",
       "id": "v21"
     },
     {
@@ -309,9 +309,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/22_pov_diciembre.mp4",
       "duracion": 10,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-24",
+      "hora": "22:30",
       "id": "v22"
     },
     {
@@ -323,9 +323,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/23_cuaderno_en_la_guantera.mp4",
       "duracion": 9,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-23",
+      "hora": "08:00",
       "id": "v23"
     },
     {
@@ -337,9 +337,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/24_tres_datos_que_faltan.mp4",
       "duracion": 12,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-21",
+      "hora": "08:00",
       "id": "v24"
     },
     {
@@ -351,9 +351,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/25_cuando_puedo_recoger.mp4",
       "duracion": 9,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-24",
+      "hora": "14:00",
       "id": "v25"
     },
     {
@@ -379,9 +379,9 @@
       "orden": 2,
       "archivo": "marketing-tiktok/tanda3_version_b/26_lo_hice_o_lo_apunte.mp4",
       "duracion": 10,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-25",
+      "hora": "08:00",
       "id": "v26-b"
     },
     {
@@ -435,9 +435,9 @@
       "orden": 2,
       "archivo": "marketing-tiktok/tanda3_version_b/28_antes_de_llamar_al_tecnico.mp4",
       "duracion": 11,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-25",
+      "hora": "14:00",
       "id": "v28-b"
     },
     {
@@ -589,9 +589,9 @@
       "orden": 2,
       "archivo": "marketing-tiktok/tanda3_version_b/32_el_problema_tambien_en_la_hoja.mp4",
       "duracion": 14,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-21",
+      "hora": "21:30",
       "id": "v32-b"
     },
     {
@@ -645,9 +645,9 @@
       "orden": 2,
       "archivo": "marketing-tiktok/tanda3_version_b/34_recoger_entre_lluvias.mp4",
       "duracion": 12,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "subido",
+      "fecha": "2026-10-20",
+      "hora": "21:30",
       "id": "v34-b"
     },
     {
@@ -659,9 +659,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/app_real/35_aceituna_con_mancha_app_real.mp4",
       "duracion": 27,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-25",
+      "hora": "22:30",
       "id": "v35-real"
     },
     {
@@ -673,9 +673,9 @@
       "orden": 1,
       "archivo": "marketing-tiktok/app_real/36_en_plena_recogida_app_real.mp4",
       "duracion": 29,
-      "estado": "pendiente",
-      "fecha": "",
-      "hora": "",
+      "estado": "programado",
+      "fecha": "2026-10-23",
+      "hora": "23:00",
       "id": "v36-real"
     }
   ]
